@@ -1,16 +1,26 @@
 # QMS (Quarantine Management System)
 
-QMS App
+This is a home quarantine application to find out the date of your quarantine and to know
+whether you were inside or outside the place of the quarantine through Wi-Fi and the
+connection of the bracelet as worn in the hand, connected with Bluetooth, and uses a
+set of algorithms using artificial intelligence and Flutter. And that was part of a research
+paper made at the faculty of engineering at Helwan University.
 
-## Getting Started
+Star ⭐ the repo if you like what you see😉.
 
-This project is a starting point for a Flutter application.
+#### How to Install?
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/omarabdullah1/QMS.git
+cd QMS
+flutter packages get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### Looks
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+      <td><img src="./assets/mockups/mockup.png" alt="Image 1"></td>
+  </tr>
+</table>
