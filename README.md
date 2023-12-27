@@ -1,4 +1,4 @@
-# qms2
+# QMS (Quarantine Management System)
 
 QMS App
 
